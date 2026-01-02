@@ -1,0 +1,52 @@
+{
+  "name":"Joan Matias Dominguez",
+  "role":"Desarrollador Web",
+  "exp":"1.5",
+  "image":"https://avatars.githubusercontent.com/u/229201137",
+  "education":{
+    "center":"IPU José Luis Dubrocq",
+    "title":"Bachiller",
+    "location":"Matanzas, Cuba",
+    "date":{
+      "start":"2020",
+      "end":"2023"
+    },
+    "description":"Formación con enfoque en ciencias exactas, desarrollando pensamiento lógico y habilidades analíticas aplicables al desarrollo de software."
+  },
+  "languages":[
+    "Español (Nativo)",
+    "Inglés (Básico)"
+  ],
+  "phone":"+53 56876678",
+  "location":"Matanzas, Cuba",
+  "professionalAboutMe":"Desarrollador Frontend especializado en React, Next.js y TypeScript. Experiencia en desarrollo de interfaces responsivas con TailwindCSS e integración con Supabase. Conocimientos sólidos en testing con Vitest para garantizar código robusto y confiable. Enfoque en código mantenible, escalable y centrado en la experiencia del usuario.",
+  "largeAboutMe":[
+    "Mi primer 'Hola mundo' fue el LED de un Arduino parpadeando, y desde entonces he dedicado más de 1.5 años a transformar ideas en experiencias digitales que la gente disfrute usar.",
+    "Comparto la idea de Steve Jobs de que 'el diseño no es solo cómo se ve, sino cómo funciona', y me gusta encontrar ese punto donde la tecnología se siente mágica pero nunca complicada.",
+    "Pienso que la web debería ser accesible para todos, no solo técnicamente, sino en cómo se siente usarla.",
+    "Valoro cada detalle porque sé que son esas pequeñas cosas las que marcan la diferencia entre algo que funciona y algo que se disfruta."
+  ],
+  "shortAboutMe":["+1.5 años de experiencia aportando a la web. Desarrollador Web 🇨🇺 especializado en crear experiencias que no solo funcionen, sino que se sientan increíbles."],
+  "technologies":{
+    "frontend":["HTML","CSS","JavaScript","TypeScript","React","Nextjs","Astro"],
+    "backend":["Nodejs","Express","Nestjs","SQL","Supabase"],
+    "devops":["Git","Github","Vitest"]
+  },
+  "certifications":[
+    {
+      "title":"Curso Profesional de React",
+      "link":"",
+      "image":""
+    },
+    {
+      "title":"Curso Profesional de Typescript",
+      "link":"",
+      "image":""
+    }
+  ],
+  "social":{
+    "github":"https://github.com/joanmat117",
+    "linkedin":"https://www.linkedin.com/in/joan-matias-dominguez-3652a1365/",
+    "email":"joanmat@proton.me"
+  }
+}
