@@ -32,18 +32,18 @@
     "backend":["Nodejs","Express","Nestjs","SQL","Supabase"],
     "devops":["Git","Github","Vitest"]
   },
-  "certifications":[
-    {
+  "certifications":{
+    "react":{
       "title":"Curso Profesional de React",
       "link":"",
       "image":""
     },
-    {
+    "typescript":{
       "title":"Curso Profesional de Typescript",
       "link":"",
       "image":""
     }
-  ],
+  },
   "social":{
     "github":"https://github.com/joanmat117",
     "linkedin":"https://www.linkedin.com/in/joan-matias-dominguez-3652a1365/",
