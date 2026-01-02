@@ -35,13 +35,18 @@
   "certifications":{
     "react":{
       "title":"Curso Profesional de React",
-      "link":"",
-      "image":""
+      "link":"https://codigofacilito.com/certificates/25950d17-3f09-43b0-bbe2-b31a17253ba3",
+      "image":"https://i.postimg.cc/BZmgpWNz/compress-react-certificate-(1).jpg"
     },
     "typescript":{
       "title":"Curso Profesional de Typescript",
-      "link":"",
-      "image":""
+      "link":"https://codigofacilito.com/certificates/d189660f-94c4-43d6-a9be-e66aab03cf7b",
+      "image":"https://i.postimg.cc/59s3gcpZ/compress-ts-certificadte.jpg"
+    },
+    "sql":{
+      "title":"Curso Profesional de Base de Datos",
+      "link":"https://codigofacilito.com/certificates/f4a13585-4f16-4ce8-9c18-7e71b677a78d",
+      "image":"https://i.postimg.cc/y6LPjqnb/compress-sql-certificate-(1).jpg"
     }
   },
   "social":{
