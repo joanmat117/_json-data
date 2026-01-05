@@ -1,0 +1,16 @@
+{
+  "writeKey": "${{ secrets.LOCALAZY_WRITE_KEY }}",
+  "readKey": "${{ secrets.LOCALAZY_READ_KEY }}",
+  "upload": {
+    "type": "json",
+    "files": [
+      {
+        "pattern": "**/*_es.json",
+        "lang": "es"
+      }
+    ]
+  },
+  "download": {
+    "files": "${path}/${file|replace('_es', '_en')}"
+  }
+}

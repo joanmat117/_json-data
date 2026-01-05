@@ -1,0 +1,27 @@
+name: Traducir ES -> EN con Localazy
+
+on:
+  push:
+    branches: [main]
+    paths: ['**/*_es.json']
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+
+      - name: Subir ES a Localazy y descargar EN
+        uses: localazy/upload@v1
+        with:
+          read_key: ${{ secrets.LOCALAZY_READ_KEY }}
+          write_key: ${{ secrets.LOCALAZY_WRITE_KEY }}
+          download_after_upload: true # Sube, traduce y descarga en un solo paso
+          download_format: json
+          download_languages: 'en'
+
+      - name: Confirmar archivos traducidos
+        run: |
+          echo "✅ Archivos generados:"
+          find . -name "*_en.json" -type f
