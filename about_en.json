@@ -1,0 +1,59 @@
+{
+  "name": "Joan Matias Dominguez",
+  "role": "Web Developer",
+  "exp": "1.5",
+  "image": "https://avatars.githubusercontent.com/u/229201137?v=4&size=256",
+  "education": {
+    "center": "IPU José Luis Dubrocq",
+    "title": "High School Diploma",
+    "location": "Matanzas, Cuba",
+    "date": {
+      "start": "2020",
+      "end": "2023"
+    },
+    "description": "Education with a focus on exact sciences, developing logical thinking and analytical skills applicable to software development."
+  },
+  "languages": [
+    "Spanish (Native)",
+    "English (Basic)"
+  ],
+  "phone": "+53 56876678",
+  "location": "Matanzas, Cuba",
+  "professionalAboutMe": "Frontend Developer specialized in React, Next.js, and TypeScript. Experienced in building responsive interfaces with TailwindCSS and integrating with Supabase. Strong knowledge in testing with Vitest to ensure robust and reliable code. Focused on maintainable, scalable code centered on user experience.",
+  "largeAboutMe": [
+    "My first 'Hello World' was an Arduino LED blinking, and since then I have dedicated over 1.5 years to transforming ideas into digital experiences that people enjoy using.",
+    "I share Steve Jobs' philosophy that 'design is not just what it looks like and feels like, design is how it works,' and I love finding that sweet spot where technology feels magical yet never complicated.",
+    "I believe the web should be accessible to everyone—not just technically, but in how it feels to use it.",
+    "I value every detail because I know those small things make the difference between something that just works and something that is truly enjoyed."
+  ],
+  "shortAboutMe": [
+    "+1.5 years of experience contributing to the web. Web Developer 🇨🇺 specialized in creating experiences that don't just work, but feel incredible."
+  ],
+  "technologies": {
+    "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Nextjs", "Astro"],
+    "backend": ["Nodejs", "Express", "Nestjs", "SQL", "Supabase"],
+    "devops": ["Git", "Github", "Vitest"]
+  },
+  "certifications": {
+    "react": {
+      "title": "Professional React Course",
+      "link": "https://codigofacilito.com/certificates/25950d17-3f09-43b0-bbe2-b31a17253ba3",
+      "image": "https://i.postimg.cc/BZmgpWNz/compress-react-certificate-(1).jpg"
+    },
+    "typescript": {
+      "title": "Professional Typescript Course",
+      "link": "https://codigofacilito.com/certificates/d189660f-94c4-43d6-a9be-e66aab03cf7b",
+      "image": "https://i.postimg.cc/59s3gcpZ/compress-ts-certificadte.jpg"
+    },
+    "sql": {
+      "title": "Professional Database Course",
+      "link": "https://codigofacilito.com/certificates/f4a13585-4f16-4ce8-9c18-7e71b677a78d",
+      "image": "https://i.postimg.cc/y6LPjqnb/compress-sql-certificate-(1).jpg"
+    }
+  },
+  "social": {
+    "github": "https://github.com/joanmat117",
+    "linkedin": "https://www.linkedin.com/in/joan-matias-dominguez-3652a1365/",
+    "email": "joanmat@proton.me"
+  }
+}
