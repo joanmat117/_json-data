@@ -26,7 +26,7 @@
     "Pienso que la web debería ser accesible para todos, no solo técnicamente, sino en cómo se siente usarla.",
     "Valoro cada detalle porque sé que son esas pequeñas cosas las que marcan la diferencia entre algo que funciona y algo que se disfruta."
   ],
-  "shortAboutMe":["+1.5 años de experiencia aportando a la web. Desarrollador Web 🇨🇺 especializado en crear experiencias que no solo funcionen, sino que se sientan increíbles."],
+  "shortAboutMe":["+1.5 años de experiencia aportando a la web. <strong>Desarrollador Web</strong> 🇨🇺 especializado en crear experiencias que no solo funcionen, sino que se <strong>sientan increíbles</strong>."],
   "technologies":{
     "frontend":["HTML","CSS","JavaScript","TypeScript","React","Nextjs","Astro"],
     "backend":["Nodejs","Express","Nestjs","SQL","Supabase"],
