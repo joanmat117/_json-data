@@ -20,12 +20,12 @@
   "phone":"+53 56876678",
   "location":"Matanzas, Cuba",
   "professionalAboutMe":"Desarrollador Frontend especializado en React, Next.js y TypeScript. Experiencia en desarrollo de interfaces responsivas con TailwindCSS e integración con Supabase. Conocimientos sólidos en testing con Vitest para garantizar código robusto y confiable. Enfoque en código mantenible, escalable y centrado en la experiencia del usuario.",
-  "largeAboutMe":[
-    "Mi primer 'Hola mundo' fue el LED de un Arduino parpadeando, y desde entonces he dedicado más de 1.5 años a transformar ideas en experiencias digitales que la gente disfrute usar.",
-    "Comparto la idea de Steve Jobs de que 'el diseño no es solo cómo se ve, sino cómo funciona', y me gusta encontrar ese punto donde la tecnología se siente mágica pero nunca complicada.",
-    "Pienso que la web debería ser accesible para todos, no solo técnicamente, sino en cómo se siente usarla.",
-    "Valoro cada detalle porque sé que son esas pequeñas cosas las que marcan la diferencia entre algo que funciona y algo que se disfruta."
-  ],
+  "largeAboutMe": [
+    "Mi primer 'Hola mundo' fue el LED de un <strong>Arduino</strong> parpadeando, y desde entonces he dedicado <strong>más de 1.5 años</strong> a transformar ideas en experiencias digitales que la gente disfrute usar.",
+    "Comparto la idea de <strong>Steve Jobs</strong> de que 'el diseño no es solo cómo se ve, sino <strong>cómo funciona</strong>', y me gusta encontrar ese punto donde la tecnología se siente <strong>mágica</strong> pero nunca complicada.",
+    "Pienso que la web debería ser <strong>accesible para todos</strong>, no solo técnicamente, sino en cómo se siente usarla.",
+    "Valoro cada detalle porque sé que son esas <strong>pequeñas cosas</strong> las que marcan la diferencia entre algo que funciona y algo que se <strong>disfruta</strong>."
+],
   "shortAboutMe":["+1.5 años de experiencia aportando a la web. <strong>Desarrollador Web</strong> 🇨🇺 especializado en crear experiencias que no solo funcionen, sino que se <strong>sientan increíbles</strong>."],
   "technologies":{
     "frontend":["HTML","CSS","JavaScript","TypeScript","React","Nextjs","Astro"],
