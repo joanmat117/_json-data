@@ -1,5 +1,35 @@
 [
   {
+  "name": "Propiedades Aburrá",
+  "slug": "propiedades-aburra",
+  "description": "Estimador de precios de vivienda para el Valle de Aburrá basado en datos reales del mercado inmobiliario y modelos de Machine Learning.",
+  "advancedDescription": [
+    "Desarrollé la interfaz con React y TypeScript, integrando APIs de geolocalización",
+    "Implementé validaciones robustas con Zod y gestión de estado global con Zustand",
+    "Optimicé el flujo de los formularios para garantizar una experiencia de usuario cómoda y fluida",
+    "Integré autenticación con Google OAuth y consumo de APIs REST para el modelo de ML"
+  ],
+  "technologies": [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Zustand",
+    "Zod",
+    "Geolocation API",
+    "OAuth"
+  ],
+  "links": {
+    "code": null,
+    "demo": "https://propiedadesaburra.xyz"
+  },
+  "image": "https://i.postimg.cc/fRNGZF8y/i-Mockup-i-Phone-15-Pro-Max(1)(1).webp",
+  "role": "Desarrollador Frontend",
+  "date": {
+    "start": "Enero 2026",
+    "end": "Enero 2026"
+  }
+  }, 
+  {
     "name": "Torneo EA FC 24 Madrid",
     "slug": "torneo-ea-fc-24-madrid",
     "description": "Landing page moderna para un torneo de gaming, desarrollada con Astro para máximo rendimiento y diseño responsivo. Internacionalización completa en tres idiomas.",
