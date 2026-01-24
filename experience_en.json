@@ -2,171 +2,111 @@
   {
     "name": "Propiedades Aburrá",
     "slug": "propiedades-aburra",
-    "description": "Real estate price estimator for the Aburrá Valley based on real market data and Machine Learning models.",
+    "description": "Housing price estimator for Valle de Aburrá based on real market data and ML models.",
     "advancedDescription": [
-      "Developed the interface using React and TypeScript, integrating Geolocation APIs",
-      "Implemented robust validations with Zod and global state management with Zustand",
-      "Optimized form flows to ensure a comfortable and smooth user experience",
-      "Integrated Google OAuth authentication and REST API consumption for the ML model"
+      "Developed the interface with React and integrated Geolocation APIs",
+      "Implemented robust validations with Zod and global state with Zustand",
+      "Optimized form flows to ensure a smooth and seamless user experience",
+      "Integrated Google OAuth and REST APIs for the ML model"
     ],
-    "technologies": [
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Zustand",
-      "Zod",
-      "Geolocation API",
-      "OAuth"
-    ],
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "Zustand", "Zod", "Geolocation API", "OAuth"],
     "links": {
       "code": "https://github.com/joanmat117/propiedades-aburra-frontend/",
       "demo": "https://propiedadesaburra.xyz"
     },
     "image": "https://i.postimg.cc/fRNGZF8y/i-Mockup-i-Phone-15-Pro-Max(1)(1).webp",
     "role": "Freelance Frontend Developer",
-    "date": {
-      "start": "January 2026",
-      "end": "January 2026"
-    }
+    "date": { "start": "2026-01", "end": "2026-01" }
   },
   {
     "name": "EA FC 24 Madrid Tournament",
     "slug": "torneo-ea-fc-24-madrid",
-    "description": "Modern landing page for a gaming tournament, developed with Astro for maximum performance and responsive design. Full internationalization in three languages.",
+    "description": "Modern landing page for a gaming tournament, built with Astro for maximum performance.",
     "advancedDescription": [
-      "Landing page developed with Astro for peak performance",
+      "Landing page developed with Astro for maximum performance",
       "Responsive design optimized for all devices",
       "Full internationalization in Spanish, English, and French"
     ],
-    "technologies": [
-      "Astro",
-      "TypeScript",
-      "React",
-      "Tailwind CSS",
-      "I18n"
-    ],
+    "technologies": ["Astro", "TypeScript", "React", "Tailwind CSS", "I18n"],
     "links": {
       "code": "https://github.com/joanmat117/torneo-ea-fc-tournament-landing-page",
       "demo": "https://torneoeafc24madrid.vercel.app/es"
     },
     "image": "https://i.postimg.cc/vZVBg3RJ/torneo-ea-fc-24-landing.webp",
     "role": "Fullstack Developer",
-    "date": {
-      "start": "March 2024",
-      "end": ""
-    }
-  },
-  {
-    "name": "Energía Ideal",
-    "slug": "energia-ideal",
-    "description": "A high-performance news website with an elegant design, perfect SEO, and a multilingual structure for global reach.",
-    "advancedDescription": [
-      "Achieved a perfect score of 100 in SEO and 96 in Accessibility (PageSpeed Insights)",
-      "Developed a full backend with Supabase, including a custom CMS for content management",
-      "Implemented an advanced image optimization system",
-      "Multilingual architecture with automatic translation upon publishing"
-    ],
-    "technologies": [
-      "Nextjs",
-      "TypeScript",
-      "React",
-      "Supabase",
-      "Tailwind CSS"
-    ],
-    "links": {
-      "code": "https://github.com/joanmat117/energia-ideal",
-      "demo": "https://energiaideal.vercel.app/en"
-    },
-    "image": "https://i.postimg.cc/Cxq1BmTT/energia-ideal.webp",
-    "role": "Frontend & Backend Developer",
-    "date": {
-      "start": "June 2024",
-      "end": "September 2024"
-    }
+    "date": { "start": "2025-08", "end": "2025-10" }
   },
   {
     "name": "Online Bible",
     "slug": "online-bible",
-    "description": "A modern web application for reading the Bible, built with Next.js and React. Features a clean, responsive UI created with Material UI, centralized state management via Redux, and a scalable architecture.",
+    "description": "Modern web application for Bible reading with centralized state management and SSR.",
     "advancedDescription": [
-      "Developed a high-performance web app with Next.js using Server-Side Rendering (SSR)",
-      "Implemented an organized Screaming Architecture and Redux Toolkit for efficient state management",
-      "Responsive interface with Material-UI including Dark Mode",
+      "Developed a high-performance web app with Next.js using Server-Side Rendering",
+      "Implemented Screaming Architecture and Redux Toolkit for efficient state management",
+      "Responsive UI with Material-UI including dark mode",
       "Favorites and notes system per verse, optimized for all devices"
     ],
-    "technologies": [
-      "Nextjs",
-      "TypeScript",
-      "React",
-      "Material UI",
-      "Redux"
-    ],
+    "technologies": ["Nextjs", "TypeScript", "React", "Material UI", "Redux"],
     "links": {
       "code": "https://github.com/joanmat117/online-bible",
       "demo": "https://online-bible.vercel.app/home"
     },
     "image": "https://i.postimg.cc/Cxq1BmTS/online-bible.webp",
     "role": "Frontend Developer",
-    "date": {
-      "start": "November 2024",
-      "end": "January 2025"
-    }
+    "date": { "start": "2025-05", "end": "2025-07" }
+  },
+  {
+    "name": "Energía Ideal",
+    "slug": "energia-ideal",
+    "description": "High-performance news website with elegant design, perfect SEO, and multilingual structure.",
+    "advancedDescription": [
+      "Achieved a perfect score of 100 in SEO and 96 in Accessibility (PageSpeed Insights)",
+      "Developed a complete backend with Supabase, including a custom CMS",
+      "Implemented an advanced image optimization system",
+      "Multilingual architecture with automatic translation upon publishing"
+    ],
+    "technologies": ["Nextjs", "TypeScript", "React", "Supabase", "Tailwind CSS"],
+    "links": {
+      "code": "https://github.com/joanmat117/energia-ideal",
+      "demo": "https://energiaideal.vercel.app/en"
+    },
+    "image": "https://i.postimg.cc/Cxq1BmTT/energia-ideal.webp",
+    "role": "Frontend & Backend Developer",
+    "date": { "start": "2025-02", "end": "2025-04" }
   },
   {
     "name": "Community Website",
     "slug": "sitio-web-comunitario",
-    "description": "A modern community website with a thematic and attractive design. Includes a full authentication system, an internal CMS for content management, and a high-performance responsive UI.",
+    "description": "Modern community website featuring authentication, internal CMS, and high-performance UI.",
     "advancedDescription": [
-      "Led the frontend design and development with React, TypeScript, and Tailwind CSS",
+      "Led the design and frontend development using React, TypeScript, and Tailwind CSS",
       "Implemented the entire backend layer with Supabase (DB, Auth, Storage)",
       "Delivered an internal dashboard/CMS with robust validation (Zod + React Hook Form)",
       "Modern interface consistent with the community's branding"
     ],
-    "technologies": [
-      "Supabase",
-      "TypeScript",
-      "React",
-      "Tailwind CSS",
-      "Shadcn",
-      "Zustand",
-      "Serverless Functions"
-    ],
-    "links": {
-      "code": null,
-      "demo": null
-    },
+    "technologies": ["Supabase", "TypeScript", "React", "Tailwind CSS", "Shadcn", "Zustand"],
+    "links": { "code": null, "demo": null },
     "image": "https://i.postimg.cc/8z65Jt89/community-website.webp",
     "role": "Fullstack Developer",
-    "date": {
-      "start": "March 2024",
-      "end": ""
-    }
+    "date": { "start": "2024-11", "end": "" }
   },
   {
     "name": "Chatbot Room",
     "slug": "chatbot-room",
-    "description": "A modern platform offering specialized AI-powered chatbots. Users can choose from multiple assistants (finance, health, academic, etc.) for expert contextual help in various fields.",
+    "description": "Modern platform offering specialized AI-powered chatbots driven by Gemini.",
     "advancedDescription": [
-      "Built an interactive application in React and TypeScript integrating the Gemini API",
-      "Offers multiple specialized chatbots with a responsive interface (Tailwind CSS)",
-      "Implemented unit testing with Vitest for key components and business logic",
+      "Built an interactive application using React and TypeScript integrated with Gemini API",
+      "Provides multiple specialized chatbots with a responsive UI (Tailwind CSS)",
+      "Implemented unit testing with Vitest for core components and business logic",
       "Developed an interactive Prompt Engineering guide"
     ],
-    "technologies": [
-      "React",
-      "Tailwind CSS",
-      "TypeScript",
-      "Google Gemini"
-    ],
+    "technologies": ["React", "Tailwind CSS", "TypeScript", "Google Gemini", "Vitest"],
     "links": {
       "code": "https://github.com/joanmat117/chatbot-room",
       "demo": "https://chatbot-room.vercel.app/"
     },
     "image": "https://i.postimg.cc/T3DwLC8Z/chatbot-room.webp",
     "role": "Frontend Developer",
-    "date": {
-      "start": "March 2025",
-      "end": "May 2025"
-    }
+    "date": { "start": "2024-09", "end": "2024-10" }
   }
 ]
