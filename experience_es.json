@@ -1,172 +1,112 @@
 [
   {
-  "name": "Propiedades Aburrá",
-  "slug": "propiedades-aburra",
-  "description": "Estimador de precios de vivienda para el Valle de Aburrá basado en datos reales del mercado inmobiliario y modelos de Machine Learning.",
-  "advancedDescription": [
-    "Desarrollé la interfaz con React y TypeScript, integrando APIs de geolocalización",
-    "Implementé validaciones robustas con Zod y gestión de estado global con Zustand",
-    "Optimicé el flujo de los formularios para garantizar una experiencia de usuario cómoda y fluida",
-    "Integré autenticación con Google OAuth y consumo de APIs REST para el modelo de ML"
-  ],
-  "technologies": [
-    "React",
-    "TypeScript",
-    "Tailwind CSS",
-    "Zustand",
-    "Zod",
-    "Geolocation API",
-    "OAuth"
-  ],
-  "links": {
-    "code": "https://github.com/joanmat117/propiedades-aburra-frontend/",
-    "demo": "https://propiedadesaburra.xyz"
+    "name": "Propiedades Aburrá",
+    "slug": "propiedades-aburra",
+    "description": "Estimador de precios de vivienda basado en Machine Learning y datos reales del mercado.",
+    "advancedDescription": [
+      "Desarrollé la interfaz con React e integré APIs de geolocalización",
+      "Implementé validaciones robustas con Zod y estado global con Zustand",
+      "Optimicé formularios para garantizar una UX fluida",
+      "Integré Google OAuth y consumo de APIs REST para el modelo de ML"
+    ],
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "Zustand", "Zod", "Geolocation API", "OAuth"],
+    "links": {
+      "code": "https://github.com/joanmat117/propiedades-aburra-frontend/",
+      "demo": "https://propiedadesaburra.xyz"
+    },
+    "image": "https://i.postimg.cc/fRNGZF8y/i-Mockup-i-Phone-15-Pro-Max(1)(1).webp",
+    "role": "Desarrollador Frontend Freelance",
+    "date": { "start": "2026-01", "end": "2026-01" }
   },
-  "image": "https://i.postimg.cc/fRNGZF8y/i-Mockup-i-Phone-15-Pro-Max(1)(1).webp",
-  "role": "Desarrollador Frontend Freelance",
-  "date": {
-    "start": "Enero 2026",
-    "end": "Enero 2026"
-  }
-  }, 
   {
     "name": "Torneo EA FC 24 Madrid",
     "slug": "torneo-ea-fc-24-madrid",
-    "description": "Landing page moderna para un torneo de gaming, desarrollada con Astro para máximo rendimiento y diseño responsivo. Internacionalización completa en tres idiomas.",
+    "description": "Landing page de alto rendimiento para torneos de gaming con i18n en tres idiomas.",
     "advancedDescription": [
       "Landing page desarrollada con Astro para máximo rendimiento",
       "Diseño responsivo y optimizado para todos los dispositivos",
       "Internacionalización completa en español, inglés y francés"
     ],
-    "technologies": [
-      "Astro",
-      "TypeScript",
-      "React",
-      "Tailwind CSS",
-      "I18n"
-    ],
+    "technologies": ["Astro", "TypeScript", "React", "Tailwind CSS", "I18n"],
     "links": {
       "code": "https://github.com/joanmat117/torneo-ea-fc-tournament-landing-page",
       "demo": "https://torneoeafc24madrid.vercel.app/es"
     },
     "image": "https://i.postimg.cc/vZVBg3RJ/torneo-ea-fc-24-landing.webp",
     "role": "Desarrollador Fullstack",
-    "date": {
-      "start": "Marzo 2024",
-      "end": ""
-    }
-  },
-  {
-    "name": "Energía Ideal",
-    "slug": "energia-ideal",
-    "description": "Un sitio web de noticias de alto rendimiento con diseño elegante, SEO perfecto y estructura multilingüe para alcance global.",
-    "advancedDescription": [
-      "Logré una puntuación perfecta de 100 en SEO y 96 en Accesibilidad (PageSpeed Insights)",
-      "Desarrollé un backend completo con Supabase, incluyendo un CMS personalizado para gestión de contenidos",
-      "Implementé un sistema avanzado de optimización de imágenes",
-      "Arquitectura multilingüe con traducción automática al publicar"
-    ],
-    "technologies": [
-      "Nextjs",
-      "TypeScript",
-      "React",
-      "Supabase",
-      "Tailwind CSS"
-    ],
-    "links": {
-      "code": "https://github.com/joanmat117/energia-ideal",
-      "demo": "https://energiaideal.vercel.app/en"
-    },
-    "image": "https://i.postimg.cc/Cxq1BmTT/energia-ideal.webp",
-    "role": "Desarrollador Frontend & Backend",
-    "date": {
-      "start": "Junio 2024",
-      "end": "Septiembre 2024"
-    }
+    "date": { "start": "2025-08", "end": "2025-10" }
   },
   {
     "name": "Online Bible",
     "slug": "online-bible",
-    "description": "Una aplicación web moderna para leer la Biblia, construida con Next.js y React. Cuenta con una interfaz limpia y responsiva creada con Material UI, gestión de estado centralizada mediante Redux y una arquitectura escalable.",
+    "description": "Aplicación web moderna para lectura de la Biblia con gestión de estado centralizada.",
     "advancedDescription": [
-      "Desarrollé una aplicación web de alto rendimiento con Next.js, utilizando renderizado del lado del servidor",
-      "Implementé una Screaming Architecture organizada y Redux Toolkit para gestión de estado eficiente",
+      "Desarrollé una aplicación web de alto rendimiento con Next.js y SSR",
+      "Implementé una Screaming Architecture y Redux Toolkit",
       "Interfaz responsiva con Material-UI que incluye modo oscuro",
-      "Sistema de favoritos y notas por versículo, optimizada para todos los dispositivos"
+      "Sistema de favoritos y notas por versículo optimizado"
     ],
-    "technologies": [
-      "Nextjs",
-      "TypeScript",
-      "React",
-      "Material UI",
-      "Redux"
-    ],
+    "technologies": ["Nextjs", "TypeScript", "React", "Material UI", "Redux"],
     "links": {
       "code": "https://github.com/joanmat117/online-bible",
       "demo": "https://online-bible.vercel.app/home"
     },
     "image": "https://i.postimg.cc/Cxq1BmTS/online-bible.webp",
     "role": "Desarrollador Frontend",
-    "date": {
-      "start": "Noviembre 2024",
-      "end": "Enero 2025"
-    }
+    "date": { "start": "2025-05", "end": "2025-07" }
+  },
+  {
+    "name": "Energía Ideal",
+    "slug": "energia-ideal",
+    "description": "Sitio de noticias de alto rendimiento con SEO optimizado y estructura multilingüe.",
+    "advancedDescription": [
+      "Logré una puntuación perfecta de 100 en SEO y 96 en Accesibilidad (PageSpeed Insights)",
+      "Desarrollé un backend completo con Supabase, incluyendo un CMS personalizado",
+      "Implementé un sistema avanzado de optimización de imágenes",
+      "Arquitectura multilingüe con traducción automática al publicar"
+    ],
+    "technologies": ["Nextjs", "TypeScript", "React", "Supabase", "Tailwind CSS"],
+    "links": {
+      "code": "https://github.com/joanmat117/energia-ideal",
+      "demo": "https://energiaideal.vercel.app/en"
+    },
+    "image": "https://i.postimg.cc/Cxq1BmTT/energia-ideal.webp",
+    "role": "Desarrollador Frontend & Backend",
+    "date": { "start": "2025-02", "end": "2025-04" }
   },
   {
     "name": "Sitio Web Comunitario",
     "slug": "sitio-web-comunitario",
-    "description": "Un sitio web moderno para una comunidad, con un diseño temático y atractivo. Incluye un sistema completo de autenticación, un CMS interno para gestión de contenido y una interfaz de usuario responsiva y de alto rendimiento.",
+    "description": "Plataforma comunitaria con sistema de autenticación, CMS interno y diseño de alto rendimiento.",
     "advancedDescription": [
       "Lideré el diseño y desarrollo frontend con React, TypeScript y Tailwind CSS",
       "Implementé toda la capa backend con Supabase (BD, Auth, Storage)",
       "Entregué un dashboard/CMS interno con validación robusta (Zod + React Hook Form)",
       "Interfaz moderna y consistente con el branding de la comunidad"
     ],
-    "technologies": [
-      "Supabase",
-      "TypeScript",
-      "React",
-      "Tailwind CSS",
-      "Shadcn",
-      "Zustand",
-      "Serverless Function"
-    ],
-    "links": {
-      "code": null,
-      "demo": null
-    },
+    "technologies": ["Supabase", "TypeScript", "React", "Tailwind CSS", "Shadcn", "Zustand"],
+    "links": { "code": null, "demo": null },
     "image": "https://i.postimg.cc/8z65Jt89/community-website.webp",
     "role": "Desarrollador Fullstack",
-    "date": {
-      "start": "Marzo 2024",
-      "end": ""
-    }
+    "date": { "start": "2024-11", "end": "" }
   },
   {
     "name": "Chatbot Room",
     "slug": "chatbot-room",
-    "description": "Una plataforma moderna que ofrece chatbots especializados impulsados por IA. Los usuarios pueden elegir entre múltiples asistentes (finanzas, salud, académico, etc.) para obtener ayuda experta y contextual en diversos campos.",
+    "description": "Plataforma de chatbots especializados impulsados por IA (Gemini) para diversos sectores.",
     "advancedDescription": [
       "Construí una aplicación interactiva en React y TypeScript que integra la API de Gemini",
       "Ofrece múltiples chatbots especializados con interfaz responsiva (Tailwind CSS)",
       "Implementé pruebas unitarias con Vitest para componentes clave y lógica de negocio",
       "Desarrollé una guía interactiva de Prompt Engineering"
     ],
-    "technologies": [
-      "React",
-      "Tailwind CSS",
-      "TypeScript",
-      "Google Gemini"
-    ],
+    "technologies": ["React", "Tailwind CSS", "TypeScript", "Google Gemini", "Vitest"],
     "links": {
       "code": "https://github.com/joanmat117/chatbot-room",
       "demo": "https://chatbot-room.vercel.app/"
     },
     "image": "https://i.postimg.cc/T3DwLC8Z/chatbot-room.webp",
     "role": "Desarrollador Frontend",
-    "date": {
-      "start": "Marzo 2025",
-      "end": "Mayo 2025"
-    }
+    "date": { "start": "2024-09", "end": "2024-10" }
   }
 ]
