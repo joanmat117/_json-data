@@ -31,7 +31,7 @@
     "Más de 1.5 años aportando a la web me han enseñado que un buen desarrollo no se mide solo en código, sino en la experiencia que crea.",
     "Soy un <strong>Desarrollador Web</strong> especializado en construir eso para ti: la plataforma que muestra tu trabajo, atrae clientes y opera sin que tú te preocupes por la tecnología.",
     "Desde una <strong>landing page</strong> impactante hasta una <strong>tienda online</strong> completa, construyo soluciones que no solo funcionan, sino que se sientan increíbles y estén listas para crecer con tu negocio."
-  ]
+  ],
   "technologies":{
     "frontend":["HTML","CSS","JavaScript","TypeScript","React","Nextjs","Astro"],
     "backend":["Nodejs","Express","Nestjs","SQL","Supabase"],

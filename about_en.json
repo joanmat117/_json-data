@@ -2,7 +2,7 @@
   "name": "Joan Matias Dominguez",
   "role": "Web Developer",
   "exp": "1.5",
-  "image": "https://avatars.githubusercontent.com/u/229201137?v=4&size=256",
+  "image": "https://avatars.githubusercontent.com/u/229201137?v=4&size=512",
   "education": {
     "center": "IPU José Luis Dubrocq",
     "title": "High School Diploma",
@@ -11,7 +11,7 @@
       "start": "2020",
       "end": "2023"
     },
-    "description": "Education with a focus on exact sciences, developing logical thinking and analytical skills applicable to software development."
+    "description": "Education focused on exact sciences, developing logical thinking and analytical skills applicable to software development."
   },
   "languages": [
     "Spanish (Native)",
@@ -19,15 +19,18 @@
   ],
   "phone": "+53 56876678",
   "location": "Matanzas, Cuba",
-  "professionalAboutMe": "Frontend Developer specialized in React, Next.js, and TypeScript. Experienced in building responsive interfaces with TailwindCSS and integrating with Supabase. Strong knowledge in testing with Vitest to ensure robust and reliable code. Focused on maintainable, scalable code centered on user experience.",
+  "professionalAboutMe": "Frontend Developer specialized in React, Next.js, and TypeScript. Experience in developing responsive interfaces with TailwindCSS and integration with Supabase. Solid knowledge in testing with Vitest to ensure robust and reliable code. Focus on maintainable, scalable, and user-experience-centered code.",
   "largeAboutMe": [
-    "My first 'Hello World' was an Arduino LED blinking, and since then I have dedicated over 1.5 years to transforming ideas into digital experiences that people enjoy using.",
-    "I share Steve Jobs' philosophy that 'design is not just what it looks like and feels like, design is how it works,' and I love finding that sweet spot where technology feels magical yet never complicated.",
-    "I believe the web should be accessible to everyone—not just technically, but in how it feels to use it.",
-    "I value every detail because I know those small things make the difference between something that just works and something that is truly enjoyed."
+    "My first 'Hello world' was the blinking LED of an <strong>Arduino</strong>, and since then I've dedicated <strong>over 1.5 years</strong> to transforming ideas into digital experiences that people enjoy using.",
+    "I share <strong>Steve Jobs'</strong> idea that 'design is not just how it looks, but <strong>how it works</strong>,' and I like finding that point where technology feels <strong>magical</strong> but never complicated.",
+    "I believe the web should be <strong>accessible to everyone</strong>, not just technically, but in how it feels to use it.",
+    "I value every detail because I know it's those <strong>small things</strong> that make the difference between something that works and something that's a <strong>joy</strong> to use."
   ],
-  "shortAboutMe": [
-    "+1.5 years of experience contributing to the web. Web Developer 🇨🇺 specialized in creating experiences that don't just work, but feel incredible."
+  "shortAboutMe": ["+1.5 years of experience contributing to the web. <strong>Web Developer</strong> 🇨🇺 specialized in creating experiences that not only work but <strong>feel incredible</strong>."],
+  "marketingAboutMe": [
+    "Over 1.5 years contributing to the web have taught me that good development isn't measured only in code, but in the experience it creates.",
+    "I am a <strong>Web Developer</strong> specialized in building that for you: the platform that showcases your work, attracts clients, and operates without you worrying about the technology.",
+    "From an impactful <strong>landing page</strong> to a complete <strong>online store</strong>, I build solutions that not only work but feel incredible and are ready to grow with your business."
   ],
   "technologies": {
     "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Nextjs", "Astro"],
