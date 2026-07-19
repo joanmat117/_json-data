@@ -15,18 +15,18 @@
   },
   "languages": [
     "Spanish (Native)",
-    "English (Basic)"
+    "English (B2)"
   ],
   "phone": "+53 56876678",
   "location": "Matanzas, Cuba",
   "professionalAboutMe": "Frontend Developer specialized in React, Next.js, and TypeScript. Experience in developing responsive interfaces with TailwindCSS and integration with Supabase. Solid knowledge in testing with Vitest to ensure robust and reliable code. Focus on maintainable, scalable, and user-experience-centered code.",
   "largeAboutMe": [
-    "My first 'Hello world' was the blinking LED of an <strong>Arduino</strong>, and since then I've dedicated <strong>over 1.5 years</strong> to transforming ideas into digital experiences that people enjoy using.",
-    "I share <strong>Steve Jobs'</strong> idea that 'design is not just how it looks, but <strong>how it works</strong>,' and I like finding that point where technology feels <strong>magical</strong> but never complicated.",
-    "I believe the web should be <strong>accessible to everyone</strong>, not just technically, but in how it feels to use it.",
-    "I value every detail because I know it's those <strong>small things</strong> that make the difference between something that works and something that's a <strong>joy</strong> to use."
+    "My first 'Hello world' was the blinking LED of an Arduino, and since then I've focused on orchestrating complex systems and transforming strategic ideas into resilient digital architectures.",
+    "I share Steve Jobs' idea that 'design is not just how it looks, but how it works,' applying it to both the user interface and the underlying software architecture. I find the balance where complex engineering feels seamless and high-performing.",
+    "I believe the web should be accessible, sustainable, and scalable, focusing my role on high-level technical decisions that ensure long-term stability.",
+    "I value every detail in the system's lifecycle because I know it's those small architectural decisions that make the difference between something that just works and a system built to scale."
   ],
-  "shortAboutMe": ["+1.5 years of experience contributing to the web. <strong>Web Developer</strong> 🇨🇺 specialized in creating experiences that not only work but <strong>feel incredible</strong>."],
+  "shortAboutMe": ["Full-Stack Developer & Software Architect 🇨🇺 specialized in designing high-level technical strategies and orchestrating systems that endure from end to end."],
   "marketingAboutMe": [
     "Over 1.5 years contributing to the web have taught me that good development isn't measured only in code, but in the experience it creates.",
     "I am a <strong>Web Developer</strong> specialized in building that for you: the platform that showcases your work, attracts clients, and operates without you worrying about the technology.",
