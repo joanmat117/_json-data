@@ -21,12 +21,12 @@
   "location":"Matanzas, Cuba",
   "professionalAboutMe":"Desarrollador Frontend especializado en React, Next.js y TypeScript. Experiencia en desarrollo de interfaces responsivas con TailwindCSS e integración con Supabase. Conocimientos sólidos en testing con Vitest para garantizar código robusto y confiable. Enfoque en código mantenible, escalable y centrado en la experiencia del usuario.",
   "largeAboutMe": [
-    "Mi primer 'Hola mundo' fue el LED de un <strong>Arduino</strong> parpadeando, y desde entonces he dedicado <strong>más de 1.5 años</strong> a transformar ideas en experiencias digitales que la gente disfrute usar.",
-    "Comparto la idea de <strong>Steve Jobs</strong> de que 'el diseño no es solo cómo se ve, sino <strong>cómo funciona</strong>', y me gusta encontrar ese punto donde la tecnología se siente <strong>mágica</strong> pero nunca complicada.",
-    "Pienso que la web debería ser <strong>accesible para todos</strong>, no solo técnicamente, sino en cómo se siente usarla.",
-    "Valoro cada detalle porque sé que son esas <strong>pequeñas cosas</strong> las que marcan la diferencia entre algo que funciona y algo que se <strong>disfruta</strong>."
+    "Mi primer 'Hola mundo' fue el LED parpadeante de un Arduino, y desde entonces me he enfocado en orquestar sistemas complejos y transformar ideas estratégicas en arquitecturas digitales resilientes.",
+    "Comparto la idea de <strong>Steve Jobs</strong> de que <strong>'el diseño no es solo cómo se ve, sino cómo funciona'</strong>, aplicándola tanto a la interfaz de usuario como a la arquitectura de software subyacente. Encuentro el equilibrio donde la ingeniería compleja se siente fluida y de alto rendimiento.",
+    "Creo que la web debe ser accesible, sostenible y escalable, centrando mi rol en decisiones técnicas de alto nivel que garanticen la estabilidad a largo plazo.",
+    "Valoro cada detalle en el ciclo de vida del sistema porque sé que son esas pequeñas decisiones arquitectónicas las que marcan la diferencia entre algo que simplemente funciona y un sistema diseñado para escalar."
 ],
-  "shortAboutMe":["+1.5 años de experiencia aportando a la web. <strong>Desarrollador Web</strong> 🇨🇺 especializado en crear experiencias que no solo funcionen, sino que se <strong>sientan increíbles</strong>."],
+  "shortAboutMe":["<strong>Desarrollador Full-Stack & Arquitecto de Software</strong> 🇨🇺 especializado en diseñar estrategias técnicas de alto nivel y orquestar sistemas que perduran de extremo a extremo."],
   "marketingAboutMe":[
     "Más de 1.5 años aportando a la web me han enseñado que un buen desarrollo no se mide solo en código, sino en la experiencia que crea.",
     "Soy un <strong>Desarrollador Web</strong> especializado en construir eso para ti: la plataforma que muestra tu trabajo, atrae clientes y opera sin que tú te preocupes por la tecnología.",
